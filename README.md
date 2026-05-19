@@ -1,2 +1,2 @@
-# BrightLearn-Assignment-Question-Paper
+# BrightLearn-Assignment
 Question Paper
